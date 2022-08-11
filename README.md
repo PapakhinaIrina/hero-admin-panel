@@ -1,7 +1,7 @@
-# > :card_index: Административная панель React & Redux  
+# :card_index: > Административная панель React & Redux  
 ___
 
-##  >> Стэк - React, Redux, JS, HTML, CSS
+## Стэк - React, Redux, JS, HTML, CSS
 ___
 ## Разработчик: [Ирина Папахина](https://github.com/PapakhinaIrina)
 ___
