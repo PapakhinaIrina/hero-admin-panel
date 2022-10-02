@@ -4,8 +4,7 @@ ___
 >## Стэк - React, Redux, JS, HTML, CSS
 ___
 ## Разработчик: [Ирина Папахина](https://github.com/PapakhinaIrina)
-___
-Разработанна в рамках прохождения курса Ивана Петриченко [Полный курс по JavaScript + React - с нуля до результата](https://www.udemy.com/course/javascript_full/)
+
 
 ___
 ### Данная панель администратора позволяет:
